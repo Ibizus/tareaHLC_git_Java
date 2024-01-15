@@ -1,0 +1,2 @@
+Retiro: 500.0
+Ingreso: 100.0

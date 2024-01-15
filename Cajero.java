@@ -7,8 +7,8 @@ public class Cajero {
         double saldo = 1000.0;
 
         while (true) {
-            System.out.println("1- Retirar fondos");
-            System.out.println("2- Ingresar fondos");
+            System.out.println("1- Retirar");
+            System.out.println("2- Ingresar");
             System.out.println("0- Salir");
 
             int opcion = scanner.nextInt();
